@@ -5,7 +5,7 @@ Native Android game
 
 User have to draw gesture shown on top of the crocodile to kill the one 
 
-if crocodial touches Monkey loses the health
+If crocodial touches Monkey loses the health
 
 In order to win game, user have to score greater than 20
 
