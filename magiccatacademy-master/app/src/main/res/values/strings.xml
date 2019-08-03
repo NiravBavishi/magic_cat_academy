@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MagicCatAcademy</string>
+    <string-array name="text">
+    <item>Magical Jungle</item>
+
+    </string-array>
+    <string-array name="game_over">
+        <item>GAME OVER</item>
+
+    </string-array>
+    <string-array name="win_game">
+        <item>YOU WIN</item>
+
+    </string-array>
+</resources>
